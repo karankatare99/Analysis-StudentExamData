@@ -14,3 +14,8 @@ This repository showcases a **Student Dashboard** built to visualize and track s
 - **SQL**: Data is queried and managed using SQL to extract, manipulate, and aggregate exam data from the database.
 - **Excel/CSV Files**: Data import and management.
 - **Power Query**: Data transformation and preparation for analysis.
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="Images/FirstPagePreveiw.png" alt="Preview 1" width="45%" />
+    <img src="Images/SecondPagePreveiw.png" alt="Preview 2" width="45%" />
+</div>
